@@ -9,7 +9,7 @@
 4. Build your ERD (Entity Relationship Diagram) of your models;
 5. Initialize your Django project: 
 
-`django-admin startproject library`
+`django-admin startproject library` / `django-admin startproject library .`
 
 6. Create your app:
 
